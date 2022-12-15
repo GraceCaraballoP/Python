@@ -118,4 +118,11 @@ pip install black ipython wheel cowsay
   <img src="./Screenshots/Python11.png">
 </div>
 
+Para comprobar que se ha instalado `cowsay` hacemos lo siguiente para ver a una vaca dándonos el mensaje de `Genial` mensaje:
 
+```
+python -c 'import cowsay; cowsay.cow("Genial")'
+```
+<div align="center">
+  <img src="./Screenshots/Python12.png">
+</div>
